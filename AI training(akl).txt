@@ -1,0 +1,23 @@
+
+click on play ground for what 
+drop down on top (open source LLM models )
+what is prompt 
+assistant means 
+in system bar in playground type(respond with yes /no, do not over explain.)
+LLM models are great at hallucinations 
+in the response box ask any question it will answer you in yes or no .
+click on new message so you will get (system ->user->assistant ).
+(is Delhi is capital of in India )
+(is the new York is capital of India ?)
+(write a story about tollyhood )->it does't respond because of temparature is less 
+we can change temparetures in the parameters 
+as more the tempareture the respond is that much effecient 
+temparature less than 0.6 is not considered as creative model .
+max completion tokens :
+in 1700 tokens we will get responce 
+basically we don't need any 1800 tokens ,its moree than enuoph.
+resoning :
+low level of resoning is like faster responce .
+
+
+
